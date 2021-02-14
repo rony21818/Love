@@ -67,7 +67,7 @@ body{
     background-color: rgb(201, 66, 171);
     position: relative;
     margin: 0 25px;
-    margin-top: -75px;
+    margin-top: -90px;
     transform: rotateZ(-45deg);
 
     animation-name: heart_beat;
